@@ -1,0 +1,303 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Privacy Policy - EY Buzz</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;
+            line-height: 1.6;
+            color: #333;
+            background-color: #f5f5f5;
+        }
+
+        .container {
+            max-width: 900px;
+            margin: 0 auto;
+            padding: 40px 20px;
+        }
+
+        .header {
+            background: linear-gradient(135deg, #2E3192 0%, #1BFFFF 100%);
+            color: white;
+            padding: 60px 20px;
+            text-align: center;
+            margin-bottom: 40px;
+            border-radius: 0 0 20px 20px;
+        }
+
+        .header h1 {
+            font-size: 2.5rem;
+            margin-bottom: 10px;
+        }
+
+        .header p {
+            font-size: 1.1rem;
+            opacity: 0.9;
+        }
+
+        .content {
+            background: white;
+            padding: 40px;
+            border-radius: 12px;
+            box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+        }
+
+        h2 {
+            color: #2E3192;
+            margin: 30px 0 15px 0;
+            padding-bottom: 10px;
+            border-bottom: 2px solid #eee;
+        }
+
+        h2:first-of-type {
+            margin-top: 0;
+        }
+
+        h3 {
+            color: #444;
+            margin: 20px 0 10px 0;
+        }
+
+        p {
+            margin-bottom: 15px;
+            text-align: justify;
+        }
+
+        ul {
+            margin: 15px 0 15px 30px;
+        }
+
+        li {
+            margin-bottom: 8px;
+        }
+
+        .highlight-box {
+            background: #f0f4ff;
+            border-left: 4px solid #2E3192;
+            padding: 20px;
+            margin: 20px 0;
+            border-radius: 0 8px 8px 0;
+        }
+
+        .contact-box {
+            background: #e8f5e9;
+            border: 1px solid #4caf50;
+            padding: 20px;
+            border-radius: 8px;
+            margin-top: 30px;
+        }
+
+        .contact-box h3 {
+            color: #2e7d32;
+            margin-top: 0;
+        }
+
+        .footer {
+            text-align: center;
+            padding: 30px;
+            color: #666;
+            font-size: 0.9rem;
+        }
+
+        .last-updated {
+            background: #fff3e0;
+            padding: 10px 20px;
+            border-radius: 5px;
+            display: inline-block;
+            margin-bottom: 20px;
+            font-size: 0.9rem;
+        }
+
+        a {
+            color: #2E3192;
+            text-decoration: none;
+        }
+
+        a:hover {
+            text-decoration: underline;
+        }
+
+        @media (max-width: 600px) {
+            .header h1 {
+                font-size: 1.8rem;
+            }
+
+            .content {
+                padding: 20px;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="header">
+        <h1>Privacy Policy</h1>
+        <p>EY Buzz - Social Media Management Application</p>
+    </div>
+
+    <div class="container">
+        <div class="content">
+            <span class="last-updated">Last Updated: January 27, 2026</span>
+
+            <h2>1. Introduction</h2>
+            <p>Welcome to EY Buzz ("we," "our," or "us"). We are committed to protecting your privacy and ensuring the security of your personal information. This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you use our mobile application and web services (collectively, the "Service").</p>
+
+            <p>By accessing or using EY Buzz, you agree to this Privacy Policy. If you do not agree with the terms of this Privacy Policy, please do not access the application.</p>
+
+            <h2>2. Information We Collect</h2>
+
+            <h3>2.1 Personal Information</h3>
+            <p>We may collect personal information that you voluntarily provide to us when you:</p>
+            <ul>
+                <li>Register for an account</li>
+                <li>Connect your social media accounts</li>
+                <li>Create or publish content through our Service</li>
+                <li>Contact us for support</li>
+            </ul>
+
+            <p>This information may include:</p>
+            <ul>
+                <li>Name and email address</li>
+                <li>Phone number</li>
+                <li>Profile picture</li>
+                <li>Organization/Department information</li>
+                <li>Social media account credentials and tokens (encrypted)</li>
+            </ul>
+
+            <h3>2.2 Social Media Data</h3>
+            <p>When you connect your social media accounts (Facebook, Twitter/X, LinkedIn, Instagram), we may access:</p>
+            <ul>
+                <li>Public profile information</li>
+                <li>Posts and content you create through our Service</li>
+                <li>Analytics and engagement metrics</li>
+                <li>Follower/following counts</li>
+            </ul>
+
+            <div class="highlight-box">
+                <strong>Important:</strong> We only access data necessary to provide our services. We do not access your private messages, personal photos, or data from your friends/followers without explicit consent.
+            </div>
+
+            <h3>2.3 Automatically Collected Information</h3>
+            <p>When you use our Service, we automatically collect:</p>
+            <ul>
+                <li>Device information (type, operating system, unique identifiers)</li>
+                <li>Log data (access times, pages viewed, app crashes)</li>
+                <li>IP address and general location</li>
+                <li>Usage patterns and preferences</li>
+            </ul>
+
+            <h2>3. How We Use Your Information</h2>
+            <p>We use the collected information for the following purposes:</p>
+            <ul>
+                <li><strong>Service Delivery:</strong> To provide, maintain, and improve our social media management features</li>
+                <li><strong>Content Publishing:</strong> To schedule and publish content to your connected social media accounts</li>
+                <li><strong>Analytics:</strong> To provide insights and performance metrics for your social media activities</li>
+                <li><strong>Communication:</strong> To send you notifications, updates, and support messages</li>
+                <li><strong>Security:</strong> To detect, prevent, and address technical issues and security threats</li>
+                <li><strong>Compliance:</strong> To comply with legal obligations and enforce our terms</li>
+            </ul>
+
+            <h2>4. Data Sharing and Disclosure</h2>
+            <p>We do not sell your personal information. We may share your information in the following circumstances:</p>
+
+            <h3>4.1 With Social Media Platforms</h3>
+            <p>When you use our Service to post content, we share that content with the social media platforms you have connected (Facebook, Twitter/X, LinkedIn, Instagram) according to their respective terms of service.</p>
+
+            <h3>4.2 Service Providers</h3>
+            <p>We may share information with third-party service providers who perform services on our behalf, such as:</p>
+            <ul>
+                <li>Cloud hosting services</li>
+                <li>Analytics providers</li>
+                <li>Customer support tools</li>
+            </ul>
+
+            <h3>4.3 Legal Requirements</h3>
+            <p>We may disclose information if required by law, court order, or government regulation, or if we believe disclosure is necessary to protect our rights, your safety, or the safety of others.</p>
+
+            <h2>5. Data Security</h2>
+            <p>We implement appropriate technical and organizational security measures to protect your personal information, including:</p>
+            <ul>
+                <li>Encryption of data in transit and at rest</li>
+                <li>Secure authentication mechanisms (JWT tokens)</li>
+                <li>Regular security audits and updates</li>
+                <li>Access controls and authentication requirements</li>
+                <li>Secure storage of API keys and tokens</li>
+            </ul>
+
+            <div class="highlight-box">
+                While we strive to protect your information, no method of transmission over the Internet is 100% secure. We cannot guarantee absolute security of your data.
+            </div>
+
+            <h2>6. Data Retention</h2>
+            <p>We retain your personal information for as long as your account is active or as needed to provide you services. We may retain certain information as required by law or for legitimate business purposes, such as:</p>
+            <ul>
+                <li>Resolving disputes</li>
+                <li>Enforcing our agreements</li>
+                <li>Complying with legal obligations</li>
+            </ul>
+            <p>You may request deletion of your data at any time by contacting us.</p>
+
+            <h2>7. Your Rights and Choices</h2>
+            <p>You have the following rights regarding your personal information:</p>
+            <ul>
+                <li><strong>Access:</strong> Request a copy of the personal information we hold about you</li>
+                <li><strong>Correction:</strong> Request correction of inaccurate or incomplete information</li>
+                <li><strong>Deletion:</strong> Request deletion of your personal information</li>
+                <li><strong>Portability:</strong> Request a portable copy of your data</li>
+                <li><strong>Withdraw Consent:</strong> Withdraw consent for data processing at any time</li>
+                <li><strong>Disconnect Accounts:</strong> Revoke access to connected social media accounts</li>
+            </ul>
+
+            <h2>8. Third-Party Services</h2>
+            <p>Our Service integrates with third-party social media platforms. These platforms have their own privacy policies:</p>
+            <ul>
+                <li><a href="https://www.facebook.com/privacy/policy/" target="_blank">Facebook/Meta Privacy Policy</a></li>
+                <li><a href="https://twitter.com/en/privacy" target="_blank">Twitter/X Privacy Policy</a></li>
+                <li><a href="https://www.linkedin.com/legal/privacy-policy" target="_blank">LinkedIn Privacy Policy</a></li>
+                <li><a href="https://help.instagram.com/519522125107875" target="_blank">Instagram Privacy Policy</a></li>
+            </ul>
+            <p>We encourage you to review the privacy policies of these platforms.</p>
+
+            <h2>9. Children's Privacy</h2>
+            <p>Our Service is not intended for children under 13 years of age. We do not knowingly collect personal information from children under 13. If we discover that a child under 13 has provided us with personal information, we will delete it immediately.</p>
+
+            <h2>10. International Data Transfers</h2>
+            <p>Your information may be transferred to and processed in countries other than your country of residence. These countries may have different data protection laws. We ensure appropriate safeguards are in place to protect your information in accordance with this Privacy Policy.</p>
+
+            <h2>11. Changes to This Privacy Policy</h2>
+            <p>We may update this Privacy Policy from time to time. We will notify you of any changes by:</p>
+            <ul>
+                <li>Posting the new Privacy Policy on this page</li>
+                <li>Updating the "Last Updated" date</li>
+                <li>Sending you an email notification (for significant changes)</li>
+            </ul>
+            <p>Your continued use of the Service after changes indicates your acceptance of the updated Privacy Policy.</p>
+
+            <h2>12. Contact Us</h2>
+            <div class="contact-box">
+                <h3>Questions or Concerns?</h3>
+                <p>If you have any questions about this Privacy Policy or our data practices, please contact us:</p>
+                <p><strong>Email:</strong> <a href="mailto:privacy@eybuzz.com">privacy@eybuzz.com</a></p>
+                <p><strong>Address:</strong> EY Buzz, Technology Department</p>
+                <p><strong>Support Portal:</strong> <a href="http://20.197.17.62:8003/support">http://20.197.17.62:8003/support</a></p>
+            </div>
+        </div>
+
+        <div class="footer">
+            <p>&copy; 2026 EY Buzz. All rights reserved.</p>
+            <p>
+                <a href="/terms">Terms of Service</a> |
+                <a href="/privacy">Privacy Policy</a> |
+                <a href="/contact">Contact Us</a>
+            </p>
+        </div>
+    </div>
+</body>
+</html>
